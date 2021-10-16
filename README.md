@@ -3,4 +3,4 @@ A GBJAM9 entry written in C for the [WASM-4 fantasy console](https://wasm4.org/)
 
 ![Wormhole screenshot](wormhole_screenshot.png)
 
-To build you will need the [WASI SDK](https://github.com/WebAssembly/wasi-sdk) installed and `WASI_SDK_PATH` environmental variable set.
+This is game jam code of questionable quality. To build it, you will need the the [WASI SDK](https://github.com/WebAssembly/wasi-sdk) installed and the `WASI_SDK_PATH` environmental variable set.
