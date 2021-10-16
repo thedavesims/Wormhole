@@ -1,0 +1,1 @@
+void music_beat(int *beat, int *current_note);
