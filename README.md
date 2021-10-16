@@ -1,5 +1,5 @@
 # Wormhole
-A GBJAM9 entry written in C for the [WASM-4 fantasy console](https://wasm4.org/). [Play it on wasm4.org](https://wasm4.org/play/wormhole).
+A [GBJAM9](https://itch.io/jam/gbjam-9) entry written in C for the [WASM-4 fantasy console](https://wasm4.org/). [Play it on wasm4.org](https://wasm4.org/play/wormhole).
 
 ![Wormhole screenshot](wormhole_screenshot.png)
 
